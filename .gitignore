@@ -1,0 +1,6 @@
+/target/
+.project
+/libspecs
+/RobotSuiteFolder
+red.xml
+*.log
